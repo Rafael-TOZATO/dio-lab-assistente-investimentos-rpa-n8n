@@ -17,7 +17,7 @@
     },
     {
       "parameters": {
-        "fieldToSplitOut": "clientes",
+        "fieldToSplitOut": "body.clientes",
         "options": {}
       },
       "id": "1a1b1c1d-0002-4a1a-8a1a-000000000002",
