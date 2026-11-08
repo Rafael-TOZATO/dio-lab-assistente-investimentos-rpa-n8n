@@ -136,12 +136,21 @@ OPENAI_API_KEY=
 ```
 O workflow do n8n deve receber a credencial do Google Gemini pelo gerenciador de credenciais do próprio n8n. Nunca versione arquivos `.env` nem chaves de API.
 
-## 📬 Contatos
+## 💻 PROJETOS E PORTFÓLIOS
+- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+## 🐙 CÓDIGO E REPOSITÓRIOS
+- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+## ✍️ ARTIGOS E PUBLICAÇÕES
+- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+
+## 📬 CONTATOS
+- **E-mail:** ornelas.tozato@gmail.com
+- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
